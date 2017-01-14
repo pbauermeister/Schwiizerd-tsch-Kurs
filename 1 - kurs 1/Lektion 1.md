@@ -1,7 +1,6 @@
 #1. Schwiizertüütsch schriibe-n-isch.. 
 
-
-![Dadaismus](https://upload.wikimedia.org/wikipedia/commons/e/e1/Baargeld.jpg)
+[//]: # ( ![Dadaismus](https://upload.wikimedia.org/wikipedia/commons/e/e1/Baargeld.jpg) )
 
  **Dada-ismus!**
 
@@ -109,7 +108,7 @@
 *Aus der Deutschweiz* | Us de Düütschwyz
 *Aber welcher Dialekt?* | aber weles dialäkt?
 
-#8. Numere -- *Nummern*
+#8a. Numere -- *Nummern*
 
 0..10
 
@@ -149,10 +148,11 @@
 - nünzg
 - hundert
 
+#8b. Zigst
 
-| |
+ | |
 --- | ---
-*22* | zwöiezwänzg
-*19. Jan* | de nünzäht Januar
+*22.* | zwöiezwänzg
+*Der 19. Januar* | de nünzäht Januar
 *Der 90. Bewerber* | de nünzigscht bewärber
 *Der 90. Bewerber* | de nünenünzigscht bewärber
