@@ -35,8 +35,8 @@
 --- | --- | ---
 *Vorname und Nachname* | De vorname und de naachname? | I bi Pascal bauermeister
 *Woher kommen Sie?* | Wohär chömed Si? | I chöme us Neuenburg
-*Wo wohnen Sie? Ich wohne in <Ort>* |
-Wo woned Si I wone z <ort> | S alter und de pruef? | *Der Alter und der Beruf* | I bi 49, mi bruef isch Inscheniör
+*Wo wohnen Sie? Ich wohne in <Ort>* | Wo woned Si | I wone z <ort>
+*Der Alter und der Beruf* | S alter und de pruef? | I bi 49, mi bruef isch Inscheniör
 *Ihre Muttersprache* | Iri mueterspraach? | Mini mueterspraach isch französich
 *Etwas über Ihre Familie und Hobbys* | Öppis zu Ire familie, zu de hobbys | ...
 *Interviewen Sie Ihr Nachbar* | Mached Si es interview vo Irem naachber | ...
@@ -149,7 +149,8 @@ Wo woned Si I wone z <ort> | S alter und de pruef? | *Der Alter und der Beruf* |
 - nünzg
 - hundert
 
- | |
+
+| |
 --- | ---
 *22* | zwöiezwänzg
 *19. Jan* | de nünzäht Januar
