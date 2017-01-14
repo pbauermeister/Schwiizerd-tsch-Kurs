@@ -13,7 +13,7 @@
 *gehört* | ghöört
 *gelesen* | gläse
 *darüber diskutiert* | drüber disk[ch]utiert
-*Ihre Fragen gestellt* | iri fraage gschtellz
+*Ihre Fragen gestellt* | iri fraage gschtellt
 *die andere Kursteilnahmer und die Kursleiterin kennengelernt* | di andere k[ch]urstailnämmer u d k[ch]urslaiteri k[ch]enneglärnt
 *Das Ziel des Kurzes zur Kentniss genommen* | d k[ch]ursziil zur k[ch]enntnis gnaa
 
@@ -22,7 +22,7 @@
  | |
 --- | ---
 *Auf Schweizerdeutsch reden, so viel wie möglich* | uf schwiitzertüütsch rede, so vil wie mögli[ch]
-*Wenn es nicht geht, dann aau Hochdeutsch* | wänns nöd gaat, dänn halt uf hoochtüütsch,
+*Wenn es nicht geht, dann auf Hochdeutsch* | wänns nöd gaat, dänn halt uf hoochtüütsch,
 *Wenn es nicht klappt, auf Französisch* | wänns au nöd klappt, uf französisch!
 *Mitmachen und Spass auf dem Kurs haben* | mitmache & de plausch am k[ch]urs haa!
 *Fortschritt machen* | fortschritt mache!
