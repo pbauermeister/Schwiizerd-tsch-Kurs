@@ -10,55 +10,55 @@
 
  | |
 --- | ---
-Am schluss vo dere lek[ch]tion händ Si **schwiizertüütsch**... | **Am schluss der Lektion, ***haben Sie Scheizerdeutsch***...
-ghöört | *gehört*
-gläse | *gelesen*
-drüber disk[ch]utiert | *darüber diskutiert*
-iri fraage gschtellz | *Ihre Fragen gestellt*
-di andere k[ch]urstailnämmer u d k[ch]urslaiteri k[ch]enneglärnt | *die andere Kursteilnahmer und die Kursleiterin kennengelernt*
-d k[ch]ursziil zur k[ch]enntnis gnaa | *Das Ziel des Kurzes zur Kentniss genommen*
+**Am schluss der Lektion, haben Sie Scheizerdeutsch**... | Am schluss vo dere lek[ch]tion händ Si schwiizertüütsch...
+*gehört* | ghöört
+*gelesen* | gläse
+*darüber diskutiert* | drüber disk[ch]utiert
+*Ihre Fragen gestellt* | iri fraage gschtellz
+*die andere Kursteilnahmer und die Kursleiterin kennengelernt* | di andere k[ch]urstailnämmer u d k[ch]urslaiteri k[ch]enneglärnt
+*Das Ziel des Kurzes zur Kentniss genommen* | d k[ch]ursziil zur k[ch]enntnis gnaa
 
 #3. im K[ch]urs
 
  | |
 --- | ---
-uf schwiitzertüütsch rede, so vil wie mögli[ch] | *Auf Schweizerdeutsch reden, so viel wie möglich*
-wänns nöd gaat, dänn halt uf hoochtüütsch, | *Wenn es nicht geht, dann aau Hochdeutsch*
-wänns au nöd klappt, uf französisch! | *Wenn es nicht klappt, auf Französisch*
-mitmache & de plausch am k[ch]urs haa! | *Mitmachen und Spass auf dem Kurs haben*
-fortschritt mache! | *Fortschritt machen*
-... erreiched mir dank gruppendynamik[ch] | *... erreichen wir dank Gruppendynamik*
+*Auf Schweizerdeutsch reden, so viel wie möglich* | uf schwiitzertüütsch rede, so vil wie mögli[ch]
+*Wenn es nicht geht, dann aau Hochdeutsch* | wänns nöd gaat, dänn halt uf hoochtüütsch,
+*Wenn es nicht klappt, auf Französisch* | wänns au nöd klappt, uf französisch!
+*Mitmachen und Spass auf dem Kurs haben* | mitmache & de plausch am k[ch]urs haa!
+*Fortschritt machen* | fortschritt mache!
+*... erreichen wir dank Gruppendynamik* | ... erreiched mir dank gruppendynamik[ch]
 
-#4. zu, i d tüütschwiiz -- *Zur Deutschweiz*
+#4. *Zur Deutschweiz* -- zum i d tüütschwiiz
 
  | | |
 --- | --- | ---
-De vorname und de naachname? | *Vorname und Nachname* | I bi Pascal bauermeister
-Wohär chömed Si? | *Woher kommen Sie?* | I chöme us Neuenburg
-Wo woned Si I wone z <ort> | *Wo wohnen Sie? Ich wohne in <Ort>* |
-S alter und de pruef? | *Der Alter und der Beruf* | I bi 49, mi bruef isch Inscheniör
-Iri mueterspraach? | *Ihre Muttersprache* | Mini mueterspraach isch französich
-Öppis zu Ire familie, zu de hobbys | *Etwas über Ihre Familie und Hobbys* | ...
-Mached Si es interview vo Irem naachber | *Interviewen Sie Ihr Nachbar* | ...
-Jede kurstailnämmer schtellt de naachber vor | *Jeder Teilnehmer stellt seinen Nachbar vor*
-Es isch aifacher, nöd vo sich selber z rede | *Es ist einfacher, nich von sich selber zu reden* 
+*Vorname und Nachname* | De vorname und de naachname? | I bi Pascal bauermeister
+*Woher kommen Sie?* | Wohär chömed Si? | I chöme us Neuenburg
+*Wo wohnen Sie? Ich wohne in <Ort>* |
+Wo woned Si I wone z <ort> | S alter und de pruef? | *Der Alter und der Beruf* | I bi 49, mi bruef isch Inscheniör
+*Ihre Muttersprache* | Iri mueterspraach? | Mini mueterspraach isch französich
+*Etwas über Ihre Familie und Hobbys* | Öppis zu Ire familie, zu de hobbys | ...
+*Interviewen Sie Ihr Nachbar* | Mached Si es interview vo Irem naachber | ...
+*Jeder Teilnehmer stellt seinen Nachbar vor* | Jede kurstailnämmer schtellt de naachber vor | ...
+*Es ist einfacher, nich von sich selber zu reden* | Es isch aifacher, nöd vo sich selber z rede | ...
 
 #5. Ires raisegepäck -- *Ihr Reisegepäck*
 
  | | |
 --- | --- | ---
-tüend Si d[p]fraage beantwoorte, bitte! | *Bitte antworten Sie die Fragen*
-Werum bin i daa? | *Warum bin ich hier?*| I schaffe z Bern und muess uf schwiizerdüütsch kommuniziere
-Wa erwart i vo dem kurs? | *Was erwarte ich vom Kurs?* | schwiizerdüütsch verstehe und räde
-Was macht mer angscht? Was befürcht'i? | *Was macht mir Angst, was befürchte ich?* | i d kronversation details z verpasse
+*Bitte antworten Sie die Fragen* | tüend Si d[p]fraage beantwoorte, bitte! | ...
+*Warum bin ich hier?* | Werum bin i daa? | I schaffe z Bern und muess uf schwiizerdüütsch kommuniziere | ...
+*Was erwarte ich vom Kurs?* | Wa erwart i vo dem kurs? | schwiizerdüütsch verstehe und räde | ...
+*Was macht mir Angst, was befürchte ich?* | Was macht mer angscht? Was befürcht'i? | i d kronversation details z verpasse
 
 #6. luuter post-it -- *Lauter Post-it*
 
  | | |
 --- | --- | ---
-de k[ch]urs? | *Der Kurs?* | man muesst mitmache
-d schpraach? | *Die Sprache?* | isch ne luschtigi schpraach
-d lüüt? | *Die Leute?* | manche lüüt hät scho erfaarig; d lüüt tüen gärn mitmache
+*Der Kurs?* | de k[ch]urs? | man muesst mitmache
+*Die Sprache?* | d schpraach? | isch ne luschtigi schpraach
+*Die Leute?* | d lüüt? | manche lüüt hät scho erfaarig; d lüüt tüen gärn mitmache
 
 #7. Regelmässigi verbe -- *Regelmässige Verben*
 
@@ -84,32 +84,34 @@ d lüüt? | *Die Leute?* | manche lüüt hät scho erfaarig; d lüüt tüen gär
 
  | |
 --- | ---
-wone | *wohnen*
-schaffe | *arbeiten*
-haisse | *heissen*
-trinke | *trinken*
-rede | *reden*
-läbe | *leben*
-**lose** | ***hören***
+*wohnen* | wone
+*arbeiten* | schaffe
+*heissen* | haisse
+*trinken* | trinke
+*reden* | rede
+*leben* | läbe
+***hören*** | **lose**
 
 
  | |
 --- | ---
-Wo woned Si ?Wo wonsch? | *Wo wohnen Sie? Wo wohnst du?*
-z Sangalle | *In Skt Gallen*
-z Italie | *In Italien*
-i de Schwyz, i de Türkei | *In der Schweiz, in der Türkei*
-im Wältschland | *In der Westschweiz*
-bi Morges, i dr nööchi vo Züri | *In der nähe von Morges, von Zürich*
-im Aargau | *Im Aargau*
-im Waadtland | *Im Waadtland*
-im Kanton Jura | *Im Kanton Jura*
-im Baselbiet, im Bärnbiet | *Im Basel Gebiet, im Bern Gebiet*
-i de Innerschwyz | *In der Innerschweiz*
-Us de Düütschwyz | *Aus der Deutschweiz*
-aber weles dialäkt? | *Aber welcher Dialekt?*
+*Wo wohnen Sie? Wo wohnst du?* | Wo woned Si ?Wo wonsch?
+*In Skt Gallen* | z Sangalle
+*In Italien* | z Italie
+*In der Schweiz, in der Türkei* | i de Schwyz, i de Türkei
+*In der Westschweiz* | im Wältschland
+*In der nähe von Morges, von Zürich* | bi Morges, i dr nööchi vo Züri
+*Im Aargau* | im Aargau
+*Im Waadtland* | im Waadtland
+*Im Kanton Jura* | im Kanton Jura
+*Im Basel Gebiet, im Bern Gebiet* | im Baselbiet, im Bärnbiet
+*In der Innerschweiz* | i de Innerschwyz
+*Aus der Deutschweiz* | Us de Düütschwyz
+*Aber welcher Dialekt?* | aber weles dialäkt?
 
 #8. Numere -- *Nummern*
+
+0..10
 
 - null
 - ais
@@ -123,6 +125,8 @@ aber weles dialäkt? | *Aber welcher Dialekt?*
 - nün
 - zää
 
+11..20
+
 - elf
 - zwölf
 - drizää
@@ -134,6 +138,8 @@ aber weles dialäkt? | *Aber welcher Dialekt?*
 - nünzää
 - zwänzg
 
+30..100
+
 - driisg
 - viersg
 - füfzg
@@ -143,7 +149,9 @@ aber weles dialäkt? | *Aber welcher Dialekt?*
 - nünzg
 - hundert
 
-- 22 --> zwöiezwänzg
-- 19. Jan --> de nünzäht Januar
-- Der 90. Bewerber --> de nünzigscht bewärber
-- Der 90. Bewerber --> de nünenünzigscht bewärber
+ | |
+--- | ---
+*22* | zwöiezwänzg
+*19. Jan* | de nünzäht Januar
+*Der 90. Bewerber* | de nünzigscht bewärber
+*Der 90. Bewerber* | de nünenünzigscht bewärber
