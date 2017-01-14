@@ -42,7 +42,7 @@
 *Jeder Teilnehmer stellt seinen Nachbar vor* | Jede kurstailnämmer schtellt de naachber vor | ...
 *Es ist einfacher, nich von sich selber zu reden* | Es isch aifacher, nöd vo sich selber z rede | ...
 
-#5. Ires raisegepäck -- *Ihr Reisegepäck*
+#5. *Ihr Reisegepäck* -- Ires raisegepäck
 
  | | |
 --- | --- | ---
@@ -51,7 +51,7 @@
 *Was erwarte ich vom Kurs?* | Wa erwart i vo dem kurs? | schwiizerdüütsch verstehe und räde | ...
 *Was macht mir Angst, was befürchte ich?* | Was macht mer angscht? Was befürcht'i? | i d kronversation details z verpasse
 
-#6. luuter post-it -- *Lauter Post-it*
+#6. *Lauter Post-it* -- luuter post-it
 
  | | |
 --- | --- | ---
@@ -59,7 +59,7 @@
 *Die Sprache?* | d schpraach? | isch ne luschtigi schpraach
 *Die Leute?* | d lüüt? | manche lüüt hät scho erfaarig; d lüüt tüen gärn mitmache
 
-#7. Regelmässigi verbe -- *Regelmässige Verben*
+#7. *Regelmässige Verben* -- Regelmässigi verbe
 
 *wohnen*
 
